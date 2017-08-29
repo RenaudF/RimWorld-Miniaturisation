@@ -9,6 +9,12 @@
             <li>ClutterColorer</li>
             <li>SteelRefiner</li>
             <li>ClutterFloorLampA</li>
+            <li>ClutterLampYellow</li>
+            <li>ClutterLampBlue</li>
+            <li>ClutterLampRed</li>
+            <li>ClutterLampGreen</li>
+            <li>ClutterLampOrange</li>
+            <li>ClutterLampVoilet</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>
 </Defs>
